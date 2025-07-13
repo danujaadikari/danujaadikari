@@ -9,8 +9,13 @@
 
 ## 🧑‍💻 About Me
 
+🎓 **BIT(Hons) in Information Systems Security (Undergraduate)**  
+💻 **Full Stack Developer (Mobile & Web)**  
+🌐 **Networking & Cybersecurity Enthusiast**  
+🏫 **Student at ESOFT Metro Campus (UGC Approved)**
+
 - 🔭 Currently building an **AI-powered Parental Control App**  
-- 🌱 Learning: **TypeScript**, **Firebase Functions**, **Cybersecurity Fundamentals**  
+- 🌱 Learning: **TypeScript**, **JavaScript**, **Firebase Functions**, **Cybersecurity Fundamentals**  
 - 🌾 Creator of **AgriMate** – Smart tech for smarter farming  
 - 💡 Passionate about solving real-world problems with scalable digital solutions  
 - 📫 Reach me at: **danujaadikari2001@gmail.com**  
