@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently building an **AI-powered Parental Control App**  
-- 🌱 Learning: **TypeScript & JavaScript**, **Firebase Functions**, **Cybersecurity Fundamentals**  
+- 🌱 Learning: **TypeScript**, **Firebase Functions**, **Cybersecurity Fundamentals**  
 - 🌾 Creator of **AgriMate** – Smart tech for smarter farming  
 - 💡 Passionate about solving real-world problems with scalable digital solutions  
 - 📫 Reach me at: **danujaadikari2001@gmail.com**  
@@ -61,6 +61,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danujaadikari&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danujaadikari&theme=tokyonight" width="48%" />
 </p>
 
 ---
