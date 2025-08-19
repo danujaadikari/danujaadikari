@@ -12,7 +12,7 @@
 🎓 **BIT(Hons) in Information Systems Security (Undergraduate)**  
 💻 **Mobile Application Developer (iOS/Android) Full Stack**  
 🌐 **Networking & Cybersecurity Enthusiast**  
-🏫 **Student at ESOFT Metro Campus (UGC Approved)**
+🏫 **Student at ESOFT Metro Campus (UGC)**
 
 - 🔭 Currently building an **AI-powered Parental Control App**  
 - 🌱 Learning: **TypeScript**, **JavaScript**, **Firebase Functions**, **Cybersecurity Fundamentals**  
