@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 🎓 **BIT(Hons) in Information Systems Security (Undergraduate)**  
-💻 **Full Stack Developer (Mobile)**  
+💻 **Mobile Application Developer (iOS/Android) Full Stack**  
 🌐 **Networking & Cybersecurity Enthusiast**  
 🏫 **Student at ESOFT Metro Campus (UGC Approved)**
 
