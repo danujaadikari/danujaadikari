@@ -8,19 +8,27 @@
   <img src="https://komarev.com/ghpvc/?username=danujaadikari&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <i>Mobile-first • Secure-by-design • Real-world impact</i>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-📱 **Mobile Application Developer – Android & iOS**  
-🎓 **BIT (Hons) in Information Systems Security (Undergraduate)**  
+📱 **Mobile Application Developer (Android & iOS)**  
+🎓 **BIT (Hons) in Information Systems Security – Undergraduate**  
 🏫 **ESOFT Metro Campus (UGC Recognized)**  
 
-I specialize in **building secure, scalable, and real-world mobile applications**  
-with a strong focus on **React Native, Firebase, and AI-powered features**.
+I specialize in **building secure, scalable, and production-ready mobile applications**  
+with **React Native**, focusing on:
 
-My primary expertise is **Mobile App Development**, with backend and web technologies  
-used as **supporting tools** where required.
+- 🔐 Security-aware system design  
+- 🧠 AI-powered mobile features  
+- 📱 Real-world mobile solutions  
+
+My **primary expertise is Mobile App Development**.  
+Backend and web technologies are used only as **supporting tools**.
 
 📫 **Email:** `danujaadikari2001@gmail.com`
 
@@ -41,7 +49,7 @@ used as **supporting tools** where required.
 ---
 
 ### 🌿 AgriMate – Smart Farming Mobile App
-> Mobile platform empowering farmers & traders
+> Empowering farmers & traders via mobile technology
 
 - 📱 Farmer-friendly mobile UI  
 - 📤 Post harvests & manage prices  
@@ -68,58 +76,58 @@ used as **supporting tools** where required.
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" />
 </p>
 
-### 🌐 Supporting Tools
+### 🌐 Tools & Version Control
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements (Elite)
+## 📊 Animated GitHub Statistics
 
-### 🥇 Developer Achievement Trophies
+### 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danujaadikari
-  &theme=algolia
-  &no-frame=true
-  &margin-w=15
-  &column=5
-  &title=Commit,Repositories,PullRequest,Stars,Followers" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danujaadikari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 ---
 
-### 🧠 GitHub Developer Metrics
+### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://metrics.lecoq.io/danujaadikari?template=classic
-  &languages=1
-  &achievements=1
-  &followup=1
-  &people=1
-  &base.indepth=true
-  &base.hireable=true
-  &config.timezone=Asia/Colombo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=danujaadikari&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🏅 Developer Ranking
+### 📈 Activity Graph (Animated)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danujaadikari
-  &rank_icon=github
-  &theme=tokyonight
-  &hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danujaadikari&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🎯 Mobile Developer Highlights
+### 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danujaadikari&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- 📱 Primary focus: **Mobile Application Development**  
-- 🔐 Security-aware mobile system design  
-- 🧠 AI integration in mobile platforms  
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danujaadikari&theme=algolia&no-frame=true&column=5&margin-w=15" />
+</p>
+
+---
+
+## 🎯 Developer Highlights
+
+- 📱 Mobile-first application architecture  
+- 🔐 Secure-by-design mindset  
+- 🧠 AI integration in mobile apps  
 - 🌱 AgriTech & Child Safety solutions  
-- 🚀 Production-ready mobile apps  
+- 🚀 Production-ready systems  
 
 ---
 
@@ -136,4 +144,4 @@ used as **supporting tools** where required.
 
 ---
 
-⭐ *Mobile-first • Secure-by-design • Real-world impact*
+⭐ <b>Mobile-first • Secure-by-design • Real-world impact</b>
