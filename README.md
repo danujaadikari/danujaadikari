@@ -100,12 +100,7 @@ Backend and web technologies are used only as **supporting tools**.
 
 ---
 
-### 📈 Activity Graph (Animated)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danujaadikari&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
----
 
 ### 🧠 Top Languages
 <p align="center">
