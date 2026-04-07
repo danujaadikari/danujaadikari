@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Danuja+Adikari;Mobile+Application+Developer+(iOS+%26+Android);Full-Stack+Developer;Web+%7C+Mobile+%7C+DevOps;React+%7C+Flutter+%7C+Docker" />
 </p>
 
-<h1 align="center">🚀 Danuja Adikari</h1>
+<h1 align="center">🚀 Danuja</h1>
 
 <h3 align="center">
 📱 Mobile Application Developer <br/>
