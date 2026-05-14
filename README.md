@@ -102,7 +102,18 @@ handling **UI/UX → Backend → Database → Security → Deployment**.
 </p>
 
 ---
+---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=danujaadikari&theme=tokyonight&no-frame=true&row=1&column=7" 
+  />
+</p>
+
+---
+---
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn → https://www.linkedin.com/in/danuja-adikari  
